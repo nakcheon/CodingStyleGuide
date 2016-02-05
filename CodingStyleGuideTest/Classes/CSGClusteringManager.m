@@ -53,7 +53,7 @@
 @end
 
 @interface CSGClusteringManager(ProcessMethod)
-@end
+@end  
 
 
 /******************************************************************************************
