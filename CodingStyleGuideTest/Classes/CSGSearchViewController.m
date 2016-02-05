@@ -47,7 +47,7 @@
 @end
 
 @interface CSGSearchViewController(PrivateServerCommunications)
-@end
+@end  
 
 @interface CSGSearchViewController(selectors)
 @end
